@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Mahmood (He/Him)
+_____________________________
+
+I have a background in Anatomy but currently into neuroscience and microscopy.
+I am passionate about **Open Science.**
 
 <!--
 **usmood/usmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
